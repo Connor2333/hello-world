@@ -1,2 +1,2 @@
 # hello-world
-Connor repository
+Connor's repository
